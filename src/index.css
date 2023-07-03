@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.my-container {
+  @apply mx-auto py-6 sm:max-w-xl md:max-w-full lg:max-w-screen-xl
+}
+
+.active {
+  @apply text-xl tracking-wide text-gray-700 transition-colors duration-200 hover:text-blue-700
+}
+
+.default {
+  @apply text-xl tracking-wide text-gray-700 transition-colors duration-200 hover:text-blue-700
+}

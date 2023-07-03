@@ -1,0 +1,26 @@
+[
+    {
+    "_id": "1",
+    "name": "Spider Man",
+    "sellerName": "Google LLC",
+    "sellerEmail": "admin@gmail.com",
+    "subCategory": "DC",
+    "price": 200,
+    "rating": 5,
+    "quantity": 10,
+    "image": "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+    "description" : "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+    },
+    {
+    "_id": "2",
+    "name": "super Man",
+    "sellerName": "Google Huda",
+    "sellerEmail": "admin@gmail.com",
+    "subCategory": "Marvel",
+    "price": 500,
+    "rating": 4,
+    "quantity": 20,
+    "image": "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+    "description" : "A Software (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+    }
+]
